@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratik Tayde !</h1>
 <h3 align="center">A student trying to figure things out....... oops !</h3>
 
+<img src="https://github.com/pratiktayde4246/PratikTayde4246/blob/main/%7BPratik%20Tayde%7D.png" height="240" width="480">
+
 - 🌱 I’m currently learning **scikit-learn**
 
 - 👨‍💻 All of my projects are available at [pratiktayde.me](pratiktayde.me)
