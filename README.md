@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/pratiktayde4246/PratikTayde4246/blob/main/%7BPratik%20Tayde%7D.png" width="480">
+<img align='right' src="https://github.com/pratiktayde34/pratiktayde34/blob/main/%7BPratik%20Tayde%7D.png" width="480">
 
 <h1 align="center">Hi 👋, I'm Pratik Tayde !</h1>
 <h3 align="center">A student trying to figure things out....... oops !</h3>
